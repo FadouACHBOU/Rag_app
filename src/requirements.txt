@@ -3,3 +3,5 @@ uvicorn==0.54.0
 python-multipart==0.0.32
 pydantic-settings==2.16.0
 aiofiles==25.1.0
+langchain==1.4.9
+pymupdf==2.1
