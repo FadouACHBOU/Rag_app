@@ -5,4 +5,5 @@ pydantic-settings==2.16.0
 aiofiles==25.1.0
 langchain==1.4.9
 pymupdf==2.1
-langchain-community
+langchain-community==0.4.2
+motor==3.7.1
